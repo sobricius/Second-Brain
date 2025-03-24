@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "2f3c38761dbaf53a",
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "e6c2b0a2b1091804",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -177,13 +177,14 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "e6c2b0a2b1091804",
   "lastOpenFiles": [
+    "Learning/Curso Deep Learning/Seaborn.md",
+    "Learning/Curso Deep Learning/Curso Deep Learning.md",
+    "Learning/Curso Deep Learning/Pandas.md",
     "Learning/Learning.md",
     "Learning/Learn to Document Your Projects.md",
     "Learning/Assisted learning.md",
-    "Learning/Curso Deep Learning/Pandas.md",
-    "Learning/Curso Deep Learning/Curso Deep Learning.md",
     "Making/Muebles.md",
     "datafolder/Pandas_Cheat_Sheet_Página_2.jpg",
     "datafolder/Pandas_Cheat_Sheet_Página_1.jpg",
@@ -209,7 +210,6 @@
     "Google Keep/ChipIt ToDo.md",
     "Google Keep/Futuro próximo_.md",
     "Google Keep/Buys.md",
-    "Google Keep/Cosas de novios.md",
     "Google Keep/Assets",
     "Google Keep",
     "datafolder/Pasted image 20250319130048.jpg",
