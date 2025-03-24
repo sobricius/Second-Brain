@@ -1,0 +1,12 @@
+{
+  "obsidian-link-embed:embed-link": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "V"
+    }
+  ],
+  "obsidian-auto-link-title:auto-link-title-normal-paste": []
+}
